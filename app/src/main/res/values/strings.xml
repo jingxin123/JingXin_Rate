@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Jessie</string>
+    <string name="btn_label">Button</string>
+    <string name="text1">41510033</string>
+    <string name="hint_txt">Please input your name.</string>
+    <string name="lab_3">+3 POINTS</string>
+    <string name="lab_2">+2 POINTS</string>
+    <string name="lab_1">FREE THROW</string>
+    <string name="team_b">Team B</string>
+    <string name="score">0</string>
+    <string name="team_a">Team A</string>
+    <string name="btn_lab_reset">RESET</string>
+    <string name="btn_dollar_label">DOLLAR</string>
+    <string name="btn_euro_label">EURO</string>
+    <string name="btn_won_label">WON</string>
+    <string name="rmb_hint">INPUT RMB</string>
+    <string name="bmi_hint">BMI</string>
+    <string name="height_hint">INPUT HEIGHT</string>
+    <string name="weight_hint">INPUT WEIGHT</string>
+    <string name="btn_set_label">SET</string>
+    <string name="btn_opencfg_lable">CONFIG</string>
+    <string name="btn_save_label">SAVE</string>
+
+
+</resources>
